@@ -15,10 +15,10 @@
 3. 基礎設施即服務（IaaS）：消費者能掌控作業系統、儲存空間、已部署的應用程式及網路元件（如防火牆、負載平衡器等），但並不掌控雲端基礎架構。
     例如：Amazon AWS、Rackspace
 ### 部署模型
-1. [公有雲（Public Cloud）](https://zh.wikipedia.org/wiki/%E5%85%AC%E6%9C%89%E4%BA%91)
-2. [私有雲（Private Cloud）](https://zh.wikipedia.org/wiki/%E7%A7%81%E6%9C%89%E9%9B%B2)
-3. [社群雲（Community Cloud）](https://zh.wikipedia.org/wiki/%E7%A4%BE%E7%BE%A4%E9%9B%B2)
-4. [混合雲（Hybrid Cloud）](https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E9%9B%B2)
+1. 公有雲（Public Cloud）-由銷售雲端服務的廠商所建立
+2. 私有雲（Private Cloud）-由企業自行建立
+3. 社群雲（Community Cloud）-由一群擁有共同目標的組織所建立
+4. 混合雲（Hybrid Cloud）-結合兩個以上架構，使其更府和實際情況
 ### 關鍵技術
 1. 虛擬化技術
 ![image](https://github.com/lulu891013/FinTech/blob/0105bcb9e0abc1817a3dc9f23bd61d2f2e6822eb/hw_image/cloud1.png)
