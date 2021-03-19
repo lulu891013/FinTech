@@ -24,7 +24,7 @@
 ![image](https://github.com/lulu891013/FinTech/blob/0105bcb9e0abc1817a3dc9f23bd61d2f2e6822eb/hw_image/cloud1.png)
 2. 分散式運算技術
 ![image](https://github.com/lulu891013/FinTech/blob/0105bcb9e0abc1817a3dc9f23bd61d2f2e6822eb/hw_image/cloud2.png)
-### 個人心得
+### 個人想法
   雖然雲端服務的出現帶來了許多便利性也在以往科技上有了重大的突破，
   但仍要擔心在使用時能否確保網路穩定，也多多少少有一些個資安全性的問題。
   依據思科全球雲端指數（Cisco Global Cloud Index）預測，有超過70%的訊務是產生在雲端資料中心內，
