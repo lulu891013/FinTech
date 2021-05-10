@@ -6,3 +6,4 @@
 ## [HW5](https://github.com/lulu891013/FinTech/blob/2682fbdee8fe7b1db8be4f88b1a32faeee4d5730/HW/hw5.md)
 ## HW6
 ## 專題
+### [第二次進度簡報連結](https://docs.google.com/presentation/d/1wC3hApNycsh0tTW0XpltyedWf0yAANP1tu3kwTUaq0k/edit?usp=sharing)
