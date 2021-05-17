@@ -4,6 +4,6 @@
 ## [HW3](https://github.com/lulu891013/FinTech/blob/9362a77e9b6872043ae4ad9b6e0ddde58098a1d1/HW/hw3.md)
 ## [HW4](https://github.com/lulu891013/FinTech/blob/491c4a6765c2f8441710f913a6a8092ff4dbdc15/HW/hw4.md)
 ## [HW5](https://github.com/lulu891013/FinTech/blob/2682fbdee8fe7b1db8be4f88b1a32faeee4d5730/HW/hw5.md)
-## HW6
+## [HW6](https://github.com/lulu891013/FinTech/blob/db9e0555183b77cc3fbf46de9bf1afeb499b1b8e/HW/hw6.md)
 ## 專題
 ### [第二次進度簡報連結](https://docs.google.com/presentation/d/1wC3hApNycsh0tTW0XpltyedWf0yAANP1tu3kwTUaq0k/edit?usp=sharing)
